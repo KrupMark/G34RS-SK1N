@@ -1,17 +1,13 @@
 .controller.xbox {
-    background: url(https://imgur.com/ztLpmfD);
+    background: url(file/base-Gears.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
 
-.xbox.white {
-    background: url(xbox-assets/base-white.svgz);
-}
-
 .xbox.disconnected {
-    background: url(https://imgur.com/w9r4WT7);
+    background: url(file/disconnected-Gears.png);
 }
 
 .xbox.disconnected div {
@@ -28,7 +24,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://imgur.com/zVQeScA);
+    background: url(file/trigger-Gears.png);
     opacity: 0;
 }
 
@@ -45,7 +41,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://imgur.com/eRyqAwL);
+    background: url(file/bumper-Gear.png);
     opacity: 0;
 }
 
@@ -73,7 +69,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(https://imgur.com/PULQDR7);
+    background: url(file/quadrant-Gears.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -110,7 +106,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://imgur.com/IX1aACd);
+    background: url(file/start-select-Gears.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -139,7 +135,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://imgur.com/vL0S6H9);
+    background: url(file/abxy-Gears.png);
     width: 48px;
     height: 48px;
 }
@@ -184,7 +180,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://imgur.com/TtVpwRu);
+    background: url(file/stick-Gears.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -213,7 +209,7 @@
 }
 
 .xbox .face {
-    background: url(https://imgur.com/BdUM41S);
+    background: url(file/dpad-Gears.png);
     position: absolute;
     opacity: 0;
 }
