@@ -41,7 +41,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper-Gear.png);
+    /*background: url(bumper-Gear.png);*/
     opacity: 0;
 }
 
@@ -142,32 +142,32 @@
 
 .xbox .button.pressed {
     background-position-y: -48px;
-    margin-top: 5px;
+    margin-top: 3px;
     opacity: 1;
 }
 
 .xbox .a {
     background-position: 0 0;
-    top: 108px;
+    top: 109px;
     left: 55px;
 }
 
 .xbox .b {
     background-position: -49px 0;
-    top: 40px;
+    top: 59px;
     right: 0px;
 }
 
 .xbox .x {
     background-position: -98px 0;
-    top: 58px;
+    top: 59px;
     left: 4px;
 }
 
 .xbox .y {
     background-position: 48px 0;
     left: 55px;
-    top: 7px;
+    top: 8px;
 }
 
 .xbox .sticks {
